@@ -1,3 +1,3 @@
 # kottans-frontend
 
-Привіт! Вже перші кроки цього курсу сподобались, система контролю версій "Git", з якою я вже давненько знайомий, це саме та річ, без якої неможливо обійтись в сучасній розробці. Ознайомившись із запропонованими матеріалами, я трохи освіжив свої "заржавілі" знання. Відчуваю натхнення до вивчення нового, тому біжу далі по сходинках курсу!
+Hello! I liked the first steps of this course, the version control system "Git", which I have been familiar with for a long time, is exactly the thing that cannot be done without in modern development. Having familiarized myself with the proposed materials, I slightly refreshed my "rusty" knowledge. I feel inspired to learn something new, so I run further up the steps of the course!
